@@ -52,7 +52,7 @@
     "typescript-plugin-css-modules": "^4.1.1"
   },
   "resolutions": {
-    "terser": "5.16.1"
+    "terser": "5.30.0"
   },
   "targets": {
     "default": {
